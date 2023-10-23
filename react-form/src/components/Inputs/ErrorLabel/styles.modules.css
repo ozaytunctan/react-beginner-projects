@@ -1,0 +1,10 @@
+
+.error-label {
+    color:  #d32752;
+}
+
+
+.error-label > span {
+    min-height: 15px;
+    display: block;
+}

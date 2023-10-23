@@ -1,0 +1,19 @@
+
+input {
+    min-width: 100px;
+    padding: 10px;
+    background: #fff;
+    border: 1px solid #ebebeb;
+    border-radius: 10px;
+}
+
+.invalid {
+    border: 1px solid #d32752;
+}
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+}

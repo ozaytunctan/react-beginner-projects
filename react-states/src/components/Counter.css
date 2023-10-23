@@ -1,0 +1,22 @@
+
+.Counter {
+
+}
+
+
+.action-buttons {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 8px;
+}
+.action-buttons .btn {
+    padding: 8px;
+    border: 1px solid gray;
+    border-radius: 2px;
+    text-align: center;
+}
+
+.Counter .decrease {
+    background: black;
+
+}
